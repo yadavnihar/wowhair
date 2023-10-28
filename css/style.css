@@ -450,7 +450,7 @@ footer-about ul li {
 }
 
 section.hero_sec {
-  background-image: url(/images/homebg.jpg);
+  background: url(../images/homebg.jpg);
   padding: 100px 15px;
 }
 
